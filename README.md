@@ -1,1 +1,1 @@
-HI, my name is nimit.
+HI, my name is Nimit. 
