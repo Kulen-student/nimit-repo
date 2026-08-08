@@ -4,6 +4,6 @@ secrets.txt
 *.webp
 *.avif
 !BMW.avif
-
+!BMW.jpg
 
 
